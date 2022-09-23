@@ -1,4 +1,4 @@
-# Primeiro-Projeto-Python
+# Análise de Crédito
 
 Regra de Empréstimo
 
