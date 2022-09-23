@@ -1,4 +1,4 @@
-## Projeto - Análise de Crédito 
+## Análise de Crédito 
 
 <hr>
 
