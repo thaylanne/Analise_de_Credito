@@ -1,5 +1,7 @@
 # Primeiro-Projeto-Python
 
+
+
 Regra de Empréstimo
 
 O score possui uma variação de 300-999, que será dividida em 3 parte:

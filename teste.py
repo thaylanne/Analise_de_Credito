@@ -1,3 +1,4 @@
+
 salario = float(input("Digite sua renda: "))
 score = int(input("Digite seu Score: "))
 valorLiberado = salario * 35 / 100 * 12
@@ -14,10 +15,10 @@ else:
     print(f"Valor Total a ser disponibilizado: R$ {valorLiberado:.2f}")
     print("*" * 20)
 
-    ValorSolicitado = float(input("Digite valor que deseja de Empréstimo: "))
+    ValorSolicitado = int(input("Digite valor que deseja de Empréstimo: "))
     while ValorSolicitado > valorLiberado:
         print("Valor solicitado maior que valor máximo disponibilizado")
-        ValorSolicitado = float(input("Digite valor que deseja de Empréstimo: "))
+        ValorSolicitado = int(input("Digite valor que deseja de Empréstimo: "))
 
     Parcelas = int(input("Digite em quantas parcelas deseja pagar (1 até 12): "))
 
@@ -36,3 +37,4 @@ else:
 
     print(f"Taxa de Juros: {taxaJuros} %")
     print(f"{Parcelas} parcelas mensais de: R$ {ValorFinal:.2f}")
+
