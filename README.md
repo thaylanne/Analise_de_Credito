@@ -7,7 +7,7 @@ Projeto de Análise de Crédito que possui algumas regras, sendo elas:
 
 ● <b> Score </b>
 
-O score possui uma variação de 300-999, que será dividida em 3 parte:
+O score possui uma variação de 300-999, que será dividida em 3 partes:
 - De 300 a 533: Juros de 9%
 - De 534 a 766: Juros de 7%*
 - De 767 a 999: Juros de 3%*
